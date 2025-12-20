@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Uploads (if user files)
+uploads/*
+!uploads/.gitkeep
